@@ -3,3 +3,10 @@ NOAA Fisheries Steller Sea Lion Population Count
 
 # 01-Image level regression
 - Solves problem as regression task on whole image. Implemented in Keras. About ~24.54 RMSE on liderboard.
+
+
+
+Things to try:
+~~~
+https://github.com/asanakoy/kaggle_sea_lions_counting
+~~~
