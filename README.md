@@ -6,7 +6,8 @@ NOAA Fisheries Steller Sea Lion Population Count
 
 
 
-Things to try:
+To look at:
 ~~~
 https://github.com/asanakoy/kaggle_sea_lions_counting
+https://github.com/toshi-k/kaggle-steller-sea-lion-population-count
 ~~~
